@@ -54,7 +54,7 @@ class _LoginPageState extends State<LoginPage> {
                     padding:
                         const EdgeInsets.only(top: 30, left: 70, right: 70),
                     child: Text(
-                      "Organize seus boletos em um só lugar",
+                      "Organize seus\nboletos em um\nsó lugar",
                       textAlign: TextAlign.center,
                       style: TextStyles.titleHome,
                     ),

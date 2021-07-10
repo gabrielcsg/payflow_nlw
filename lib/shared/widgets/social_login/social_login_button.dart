@@ -5,6 +5,7 @@ import 'package:payflow/shared/themes/app_text_styles.dart';
 
 class SocialLoginButton extends StatelessWidget {
   final VoidCallback onTap;
+
   const SocialLoginButton({Key? key, required this.onTap}) : super(key: key);
 
   @override
